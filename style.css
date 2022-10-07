@@ -1,0 +1,42 @@
+body {
+    background-color: #fffbf7;
+}    
+    h1 {
+    color: #025157;
+  }
+form button {
+    color: #fffbf7;
+    background-color: #025157;
+}
+
+.success-stories {
+    background-color: #A1D683;
+    padding: 5% 15%;
+}
+
+.sucess-stories .overview h2 {
+    font-size: 48px;
+    line-height: 54px;
+    color: #925157;
+}
+
+.sucess-stories .overview p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+    color: #343434;
+}
+
+.sucess-stories .overview button {
+    font-size: 14px;
+    padding: 12px 12px 6px 12px;
+    border-radius: 8px;
+    height: 45px;
+    font-weight: 600;
+    margin-left: 0;
+}
+
+.sucess-stories .overview img {
+    width: 500px;
+    max-width: 100%;
+}
