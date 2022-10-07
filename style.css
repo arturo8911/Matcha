@@ -1,13 +1,79 @@
+
+
 body {
     background-color: #fffbf7;
 }    
-    h1 {
+
+h1 {
     color: #025157;
+    text-align: center;
   }
+
+  h4 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+  }
+
+form {
+    text-align: center;
+}
+
 form button {
     color: #fffbf7;
     background-color: #025157;
 }
+
+.actions button {
+    color: #fffbf7;
+    background-color: #67b54b; 
+}
+
+.header {
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 0;
+  }
+  
+  li {
+    display: inline;
+    margin: 25px;
+  }
+  .header > * {
+    display: inline-block;
+    font-size: 16px;
+    vertical-align: middle;
+    height: 100%;
+    line-height: 45px;
+  }
+  .banner {
+    vertical-align: middle;
+    text-align: center;
+  }
+  
+
+  .logo {
+    height: 100%;
+  }
+  
+  .navbar {
+    width: 70%;
+    text-align: center;
+    color: #025157;
+    font-weight: 500;
+  }
+  
+  .actions {
+    width: 15%;
+    text-align: right;
+    font-size: 14px;
+    font-weight: 600;
+  }
+ 
+.lo
 
 .success-stories {
     background-color: #A1D683;
